@@ -1,4 +1,4 @@
-# Welcome to Gibson Oluka
+# Welcome to Gibson Oluka 👋🏾
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlukaGibson&show_icons=true)
 
