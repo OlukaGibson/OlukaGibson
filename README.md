@@ -9,30 +9,30 @@ I help businesses streamline operations, enhance user experiences, and bring inn
 I’m currently looking for opportunities to apply my skills in backend, data, or embedded systems engineering with a partner. If you’re looking for a dedicated problem-solver who delivers high-impact results, let’s connect!
 
 ## 🚀 Tech Stack & Expertise  
-🔹 **Frontend:** React, Next.js, JSF, HTML, JavaScript, Tailwind CSS, etc  
+🔹 **Frontend:** React, Next.js, JSF, HTML, JavaScript, Tailwind CSS, etc    
 🔹 **Backend:** FastAPI, Flask, NodeJs, Django, etc  
-🔹 **Databases:** PostgreSQL, MySQL, NoSQL, FireBase 
-🔹 **AI &  data analysis:** ChatBots, AI agents, Fine-tuning models, AI system development 
+🔹 **Databases:** PostgreSQL, MySQL, NoSQL, FireBase  
+🔹 **AI &  data analysis:** ChatBots, AI agents, Fine-tuning models, AI system development  
 🔹 **Embedded systems:** Arduino, Espressif and Raspberry boards, PCB development in Kicard  
 
 ## Key Certifications 🎓 
-🔹 **🏅 Makerere University :** BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING - (BSSE) (Aug 2020– Oct 2025) 
-🔹 **🏅 Coursera :** 🏅 Machine Learning with Python (Aug – Oct 2023)
-🔹 **🏅 Coursera :** 🏅 Deep Learning & Neural Networks with Keras (Sept – Nov 2023)
-🔹 **🏅 Coursera :** 🏅 Generative AI using LLMs (Oct – Nov 2023)
-🔹 **🏅 Coursera :** 🏅 Computer Vision & Image Processing (Nov – Dec 2023) 
+🔹 **🏅 Makerere University :** BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING - (BSSE) (Aug 2020– Oct 2025)  
+🔹 **🏅 Coursera :** 🏅 Machine Learning with Python (Aug – Oct 2023)  
+🔹 **🏅 Coursera :** 🏅 Deep Learning & Neural Networks with Keras (Sept – Nov 2023)  
+🔹 **🏅 Coursera :** 🏅 Generative AI using LLMs (Oct – Nov 2023)  
+🔹 **🏅 Coursera :** 🏅 Computer Vision & Image Processing (Nov – Dec 2023)  
 
 
 ## Current Projects 🔬 
-🔹 **🏅 IoT Hub :** [IoT Hub](https://insight-iot-control-hub.vercel.app/)
-🔹 **🏅 Property Management :** [Property Management](https://property-management-frontend-nu.vercel.app/)
+🔹 **🏅 IoT Hub :** [IoT Hub](https://insight-iot-control-hub.vercel.app/)  
+🔹 **🏅 Property Management :** [Property Management](https://property-management-frontend-nu.vercel.app/)  
 🔹 **🏅 Smart Home Control :** Smart Home Control  
-🔹 **🏅 Textile Design :** Textile Design
+🔹 **🏅 Textile Design :** Textile Design  
 
 ## Connect with Me 📫 
 **let’s connect!**
-- LinkedIn: [Gibson Oluka](https://www.linkedin.com/in/olukagibson/)
-- GitHub: [@OlukaGibson](https://github.com/OlukaGibson)
+- LinkedIn: [Gibson Oluka](https://www.linkedin.com/in/olukagibson/)  
+- GitHub: [@OlukaGibson](https://github.com/OlukaGibson)  
 
 
 ## GitHub Stats 📊 
