@@ -26,7 +26,7 @@ I’m currently looking for opportunities to apply my skills in backend, data, o
 ## Current Projects 🔬 
 🔹 **🏅 IoT Hub :** [IoT Hub](https://insight-iot-control-hub.vercel.app/)
 🔹 **🏅 Property Management :** [Property Management](https://property-management-frontend-nu.vercel.app/)
-🔹 **🏅 Smart Home Control :** Smart Home Control
+🔹 **🏅 Smart Home Control :** Smart Home Control  
 🔹 **🏅 Textile Design :** Textile Design
 
 ## Connect with Me 📫 
