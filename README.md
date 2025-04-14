@@ -16,7 +16,7 @@ I’m currently looking for opportunities to apply my skills in backend, data, o
 🔹 **Embedded systems:** Arduino, Espressif and Raspberry boards, PCB development in Kicard  
 
 ## Key Certifications 🎓 
-🔹 **🏅 Makerere University :** BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING - (BSSE) (Aug 2020– Oct 2025)  
+🔹 **🏅 Makerere University :** BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING - (BSSE) (Aug 2020– Aug 2024)  
 🔹 **🏅 Coursera :** 🏅 Machine Learning with Python (Aug – Oct 2023)  
 🔹 **🏅 Coursera :** 🏅 Deep Learning & Neural Networks with Keras (Sept – Nov 2023)  
 🔹 **🏅 Coursera :** 🏅 Generative AI using LLMs (Oct – Nov 2023)  
