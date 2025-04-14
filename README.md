@@ -1,9 +1,7 @@
 # Welcome to Gibson Oluka 👋🏾
-Hi, I’m Gibson Oluka, an Embedded Systems and Backend Engineer passionate about solving real-world problems through technology.
+Hi, I’m Gibson Oluka, a **Software Engineer** with 3+ years of experience in **Full Stack Web Development**, **AI &  data analysis**, **DevOP** and **Embedded Systems**.
 
 ## About Me 🚀 
-I'm a **Software Engineer** with 3+ years of experience in **Full Stack Web Development**, **AI &  data analysis**, **DevOP** and **Embedded Systems**.
-
 I specialize in system design, and AI-driven automation, making complex processes more efficient. My expertise in FastAPI, Flask, PostgreSQL, Next.js, and embedded hardware sets me apart, allowing me to bridge the gap between software and hardware seamlessly.
 
 I help businesses streamline operations, enhance user experiences, and bring innovative products to market faster. Whether it's optimizing backend systems, designing intelligent interfaces, or integrating AI-driven insights, I ensure solutions that save time and maximize efficiency.
