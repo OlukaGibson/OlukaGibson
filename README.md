@@ -12,7 +12,7 @@ I’m currently looking for opportunities to apply my skills in backend, data, o
 🔹 **Frontend:** React, Next.js, JSF, HTML, JavaScript, Tailwind CSS, etc  
 🔹 **Backend:** FastAPI, Flask, NodeJs, Django, etc  
 🔹 **Databases:** PostgreSQL, MySQL, NoSQL, FireBase 
-🔹 **AI &  data analysis:** ChatBots, AI agents, Fine-tuning models, AI system development  
+🔹 **AI &  data analysis:** ChatBots, AI agents, Fine-tuning models, AI system development 
 🔹 **Embedded systems:** Arduino, Espressif and Raspberry boards, PCB development in Kicard  
 
 ## Key Certifications 🎓 
