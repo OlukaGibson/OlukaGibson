@@ -72,10 +72,12 @@ I'm a software engineer in Uganda with 3+ years across full-stack web, data & AI
   <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
 </picture>
 
+<!-- Contribution snake: uncomment once the "Update profile cards" workflow has run and created the output branch.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OlukaGibson/OlukaGibson/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/OlukaGibson/OlukaGibson/output/github-snake.svg" alt="Contribution snake" />
 </picture>
+-->
 
 <sub>Cards are regenerated daily by a GitHub Action in this repo.</sub>
 
